@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nazarkokhan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ASP DOT.NET CORE
+- 🌱 I’m currently learning ASP .NET CORE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nazarkokhan@gmail.com
 
